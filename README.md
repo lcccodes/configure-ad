@@ -30,7 +30,7 @@ This is an abbreviated outline of notes on the setup (from scratch) and installa
 <h2>Word of Caution: 3 Places You Might Get Stuck (see ** within steps below) </h2>
 
 - Validating the Second VM (Part 1)
-- Logging In to the Domain Controller (Part 4)
+- Logging In to the Domain Controller (Part 3)
 - Logging in to the Client as a Domain Admin (Part 5)
 
   
