@@ -93,11 +93,12 @@ Through Windows Defender Firewall (Advanced Settings) on the server, you'll need
 </p>
 <p>
 
-  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/1ca6c8df-2291-4bb7-95ec-0194f36fcb72)
+![image](https://github.com/lcccodes/configure-ad/assets/171904823/aae613cc-efc0-41e9-afec-4f085257b34a)
+
 
 </p>
 <p>
-THREE....................
+[ABOVE]: This is where you'll need to choose "Add a new forest" and also choose the domain name for the controller. All users will belong to this domain, and from here on out, will need to login through the domain when logging into the domain controller and any joined clients.
 </p>
 <p>
 
