@@ -27,6 +27,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 5
 - Step 6
 
+<h2>Caution: Places You Might Get Stuck </h2>
+
+- Validating the Second VM
+- Logging In to the Domain Controller
+- Logging in to the Client as a Domain Admin
+
+  
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
