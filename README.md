@@ -174,10 +174,11 @@ You'll need to change the DNS settings on the client so that they point to the p
 
 </p>
 <p>
-SIX......
+Running a powershell script to add users, who will be automatically added to an _EMPLOYEES folder and the Domain.Users security group.
 </p><p>
 
-  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/b94a2400-82fb-4a68-ac35-12e06fc28281)
+![image](https://github.com/lcccodes/configure-ad/assets/171904823/b85c3e0d-aca8-47b3-8cc3-5b1642ae90e3)
+
 
 </p>
 <p>
