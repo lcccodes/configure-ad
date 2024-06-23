@@ -154,7 +154,7 @@ FIVE. .....
 
 </p>
 <p>
-FIVE. .....
+[ABOVE]: To join the client to the domain, right-click on START, go to System, then "Rename this PC (advanced)," CHANGE, and select "Domain." (Enter your domain).
 </p>
 <p>
 
