@@ -36,7 +36,9 @@ This is an abbreviated outline of notes on the setup (from scratch) and installa
 <h2>Before You Start</h2>
 
 <p>
-ONE...............
+NB: This is a relatively long process, depending on your existing skill level with Azure. 
+I recommend that if you need to take a break, consider stopping your machines rather than trying to create them from scratch again (the step which took longest for me).
+It's likely easier to keep them set up and configured while you complete the rest of the steps below. Stopped machines will say "deallocated" and when you're ready to use them again, you can just click "Start."
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
