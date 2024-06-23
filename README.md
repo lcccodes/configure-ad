@@ -48,7 +48,7 @@ It's likely easier to keep them set up and configured while you complete the res
   
 <h2>Deployment and Configuration Steps</h2>
 
-<b>Heading</b>
+<b>Part 1: Setup of two VMs (Windows server and client) on the same region and vNet.</b>
 <p>
 
   ![image](https://github.com/lcccodes/configure-ad/assets/171904823/84e26543-c927-4985-ab01-1822238f46d2)
