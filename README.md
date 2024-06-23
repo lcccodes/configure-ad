@@ -84,7 +84,17 @@ Through Windows Defender Firewall (Advanced Settings) on the server, you'll need
 
 <b>Part 3: Install Active Directory and promote to a domain controller.</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/1ca6c8df-2291-4bb7-95ec-0194f36fcb72)
+
+</p>
+<p>
+THREE....................
+</p>
+<p>
+
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/1ca6c8df-2291-4bb7-95ec-0194f36fcb72)
+
 </p>
 <p>
 THREE....................
