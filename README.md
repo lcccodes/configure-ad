@@ -54,7 +54,9 @@ It's likely easier to keep them set up and configured while you complete the res
 
 </p>
 <p>
-ONE...............
+Once you've got your server and client machines on the same vNet within the same region, your Resource Group page will show all of the associated resources which were automatically created with these [above]. These include the vNICs and Network Security Groups.
+
+Deleting your resource group will automatically delete all resources contained within it. So if you need to delete only a single resource, it's best to do it from its own blade directly.
 </p>
 <br />
 
