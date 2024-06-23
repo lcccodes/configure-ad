@@ -11,7 +11,7 @@ This is an abbreviated outline of notes on the setup (from scratch) and installa
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
+- PowerShell ISE
 
 <h2>Operating Systems Used </h2>
 
@@ -25,7 +25,7 @@ This is an abbreviated outline of notes on the setup (from scratch) and installa
 - Part 3: Install Active Directory and promote to a domain controller.
 - Part 4: Configure AD within Server Manager and add a Domain Admin
 - Part 5: Join the client to the domain.
-- Part 6: Use Powershell for adding users; Resetting Accounts and Passwords
+- Part 6: Adding multiple users with Powershell; Resetting Accounts and Passwords
 
 <h2>Word of Caution: 3 Places You Might Get Stuck (see ** within steps below) </h2>
 
