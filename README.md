@@ -20,18 +20,18 @@ A brief outline on how to setup (from scratch) and install on-premises Active Di
 
 <h2>Overview: Deployment and Configuration </h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-- Step 5
-- Step 6
+- Part 1
+- Part 2
+- Part 3
+- Part 4
+- Part 5
+- Part 6
 
 <h2>Word of Caution: 3 Places You Might Get Stuck (see ** within steps below) </h2>
 
-- Validating the Second VM (step 1)
-- Logging In to the Domain Controller (step 4)
-- Logging in to the Client as a Domain Admin (step 5)
+- Validating the Second VM (Part 1)
+- Logging In to the Domain Controller (Part 4)
+- Logging in to the Client as a Domain Admin (Part 5)
 
   
 <h2>Deployment and Configuration Steps</h2>
