@@ -89,6 +89,14 @@ Through Windows Defender Firewall (Advanced Settings) on the server, you'll need
 
 </p>
 <p>
+[ABOVE]: After Active Directory installs, you should see a yellow exclamation mark in the upper right -- if you click on this, you'll see the option to "promte this to a domain controller." Click on that.
+</p>
+<p>
+
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/1ca6c8df-2291-4bb7-95ec-0194f36fcb72)
+
+</p>
+<p>
 THREE....................
 </p>
 <p>
