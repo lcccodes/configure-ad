@@ -149,16 +149,20 @@ Be sure to give the domain admin a specific and not a generic username, e.g., do
 FIVE. .....
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/f92a378c-da3a-429d-aeec-e0fb4846537e)
+
 </p>
 <p>
 FIVE. .....
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/54b8c87a-ae98-4c54-a68d-e767229bf3ac)
+
 </p>
 <p>
-FIVE. .....
+[ABOVE]: Don't forget, that when you log back into the client again, that it's now joined to a domain and you'll need to use the FQDN (as you did for logging in to the domain controller). So, in the place of USERNAME, you'd enter mydomain.com\username, where the username is your domain admin.
 </p>
 <br />
 
