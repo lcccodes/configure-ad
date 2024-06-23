@@ -6,12 +6,14 @@
 This is an abbreviated outline of notes on the setup (from scratch) and installation of Active Directory within Azure Virtual Machines.<br />
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments, Technologies and Languages Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop connections to server and client
 - Active Directory Domain Services
-- PowerShell ISE
+- Active Directory Users and Computers
+- Windows command line prompts
+- PowerShell ISE (Windows native scripting language)
 
 <h2>Operating Systems Used </h2>
 
