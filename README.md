@@ -61,6 +61,8 @@ Deleting your resource group will automatically delete all resources contained w
 </p>
 <br />
 
+
+<b>Part 1: Setup of two VMs (Windows server and client) on the same region and vNet.</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -69,6 +71,8 @@ TWO...................
 </p>
 <br />
 
+
+<b>Part 1: Setup of two VMs (Windows server and client) on the same region and vNet.</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -77,6 +81,8 @@ THREE....................
 </p>
 <br />
 
+
+<b>Part 1: Setup of two VMs (Windows server and client) on the same region and vNet.</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -85,6 +91,8 @@ FOUR.......
 </p>
 <br />
 
+
+<b>Part 1: Setup of two VMs (Windows server and client) on the same region and vNet.</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -93,6 +101,8 @@ FIVE. .....
 </p>
 <br />
 
+
+<b>Part 1: Setup of two VMs (Windows server and client) on the same region and vNet.</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
