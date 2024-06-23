@@ -63,6 +63,7 @@ Deleting your resource group will automatically delete all resources contained w
 </p>
 You'll also need to change the settings of the vNIC for the server from dynamic to static. Go to the NIC from within the Network Settings on the server's blade and navigate from there.<p></p>
 
+
 ![image](https://github.com/lcccodes/configure-ad/assets/171904823/ecbac8f6-e776-4af9-a77d-49ba57fa5551)
 
 </p>
