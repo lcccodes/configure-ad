@@ -82,7 +82,7 @@ THREE....................
 <br />
 
 
-<b>Part 1: Setup of two VMs (Windows server and client) on the same region and vNet.</b>
+<b>Part 4: Configure AD within Server Manager and add a Domain Admin</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
