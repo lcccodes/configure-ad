@@ -176,7 +176,7 @@ You'll need to change the DNS settings on the client so that they point to the p
 
 </p>
 <p>
-[ABOVE]: Running a powershell script to add users, who will be automatically added to an _EMPLOYEES folder and the Domain.Users security group.
+[ABOVE]: Running a powershell script to add users, who will be automatically added to an _EMPLOYEES folder and the Domain.Users security group. Note: you must open Powershell as an admin. Create a new file and save your script within it. Then click the green triangle icon to "run."
 </p><p>
 
 ![image](https://github.com/lcccodes/configure-ad/assets/171904823/b85c3e0d-aca8-47b3-8cc3-5b1642ae90e3)
