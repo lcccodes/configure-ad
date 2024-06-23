@@ -112,6 +112,8 @@ Through Windows Defender Firewall (Advanced Settings) on the server, you'll need
 You'll need to keep the IP address for the COMPUTER NAME, but in the USERNAME field, you'll need to input the FQDN (Fully Qualified Domain Name): it will look something like this (based on whatever you input in the step above):
 
 <b>mydomain.com\username</b>
+
+The point here is to make sure you're inputting this as the USERNAME and not as the COMPUTER NAME.
 </p>
 <br />
 
