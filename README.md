@@ -20,12 +20,12 @@ This is an abbreviated outline of notes on the setup (from scratch) and installa
 
 <h2>Overview: Deployment and Configuration </h2>
 
-- Part 1
-- Part 2
-- Part 3
-- Part 4
-- Part 5
-- Part 6
+- Part 1: Setup of two VMs (Windows server and client) on the same region and vNet.
+- Part 2: Checking connectivity.
+- Part 3: Install Active Directory and promote to a domain controller.
+- Part 4: Configure AD within Server Manager and add a Domain Admin
+- Part 5: Join the client to the domain.
+- Part 6: Use Powershell for adding users; Resetting Accounts and Passwords
 
 <h2>Word of Caution: 3 Places You Might Get Stuck (see ** within steps below) </h2>
 
