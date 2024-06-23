@@ -162,7 +162,7 @@ You'll need to change the DNS settings on the client so that they point to the p
 
 </p>
 <p>
-[ABOVE]: Don't forget, that when you log back into the client again, that it's now joined to a domain and you'll need to use the FQDN (as you did for logging in to the domain controller). So, in the place of USERNAME, you'd enter mydomain.com\username, where the username is your domain admin.
+[ABOVE]: ** Don't forget, that when you log back into the client again, that it's now joined to a domain and you'll need to use the FQDN (as you did for logging in to the domain controller). So, in the place of USERNAME, you'd enter mydomain.com\username, where the username is your domain admin.
 </p>
 <br />
 
