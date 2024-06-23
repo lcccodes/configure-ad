@@ -174,7 +174,7 @@ You'll need to change the DNS settings on the client so that they point to the p
 
 </p>
 <p>
-Running a powershell script to add users, who will be automatically added to an _EMPLOYEES folder and the Domain.Users security group.
+[ABOVE]: Running a powershell script to add users, who will be automatically added to an _EMPLOYEES folder and the Domain.Users security group.
 </p><p>
 
 ![image](https://github.com/lcccodes/configure-ad/assets/171904823/b85c3e0d-aca8-47b3-8cc3-5b1642ae90e3)
@@ -182,6 +182,6 @@ Running a powershell script to add users, who will be automatically added to an 
 
 </p>
 <p>
-SIX......
+[ABOVE]: It's very easy to reset someone's password or to unlock their account if they've locked themselves out with too many login attempts. Right click on the user's name and navigate to Reset Password or to Properties > Account.
 </p>
 <br />
