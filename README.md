@@ -99,6 +99,8 @@ Through Windows Defender Firewall (Advanced Settings) on the server, you'll need
 </p>
 <p>
 [ABOVE]: This is where you'll need to choose "Add a new forest" and also choose the domain name for the controller. All users will belong to this domain, and from here on out, will need to login through the domain when logging into the domain controller and any joined clients.
+
+**NB: ISSUES LOGGING BACK INTO THE DOMAIN CONTROLLER:
 </p>
 <p>
 
