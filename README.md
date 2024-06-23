@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This is an abbreviated outline of notes on the setup (from scratch) and installation, on-premises, of Active Directory within Azure Virtual Machines.<br />
+This is an abbreviated outline of notes on the setup (from scratch) and installation of Active Directory within Azure Virtual Machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
