@@ -92,7 +92,7 @@ FOUR.......
 <br />
 
 
-<b>Part 1: Setup of two VMs (Windows server and client) on the same region and vNet.</b>
+<b>Part 5: Join the client to the domain.</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -102,7 +102,7 @@ FIVE. .....
 <br />
 
 
-<b>Part 1: Setup of two VMs (Windows server and client) on the same region and vNet.</b>
+<b>Part 6: Adding multiple users with Powershell; Resetting Accounts and Passwords</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
