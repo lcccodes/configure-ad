@@ -33,6 +33,15 @@ This is an abbreviated outline of notes on the setup (from scratch) and installa
 - Logging In to the Domain Controller (Part 3)
 - Logging in to the Client as a Domain Admin (Part 5)
 
+<h2>Before You Start</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ONE...............
+</p>
+<br />
   
 <h2>Deployment and Configuration Steps</h2>
 
