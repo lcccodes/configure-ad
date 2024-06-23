@@ -141,7 +141,9 @@ Be sure to give the domain admin a specific and not a generic username, e.g., do
 
 <b>Part 5: Join the client to the domain.</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/14bece98-fb6d-434a-b5a7-9679667ee11c)
+
 </p>
 <p>
 FIVE. .....
