@@ -129,10 +129,12 @@ Once the domain controller is running and you can log in, now you can open "Acti
 NB: Once you've added a user to the _ADMINS folder (for example), make sure you actually add them to that security group, too -- right click on their name, go to Properties, "Member of," and ADD. Start typing Domain Admins and select this, apply, hit "OK."
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/9215f7d6-91aa-49be-a2d6-7a015409d9e0)
+
 </p>
 <p>
-FIVE. .....
+Be sure to give the domain admin a specific and not a generic username, e.g., don't use "Admin"
 </p>
 <br />
 
