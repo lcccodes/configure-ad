@@ -103,12 +103,15 @@ Through Windows Defender Firewall (Advanced Settings) on the server, you'll need
 **NB: ISSUES LOGGING BACK INTO THE DOMAIN CONTROLLER:
 </p>
 <p>
+  
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/0b9dade2-1ac6-4e3a-9313-d9da0a0b9066)
 
-  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/1ca6c8df-2291-4bb7-95ec-0194f36fcb72)
 
 </p>
 <p>
-THREE....................
+You'll need to keep the IP address for the COMPUTER NAME, but in the USERNAME field, you'll need to input the FQDN (Fully Qualified Domain Name): it will look something like this (based on whatever you input in the step above):
+
+<b>mydomain.com\username</b>
 </p>
 <br />
 
