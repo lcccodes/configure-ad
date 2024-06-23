@@ -146,7 +146,7 @@ Be sure to give the domain admin a specific and not a generic username, e.g., do
 
 </p>
 <p>
-FIVE. .....
+You'll need to change the DNS settings on the client so that they point to the private IP address of the domain controller (rather than using the default DNS of the vNet). Go to the client, the Networking Settings, click on the NIC, and then on "DNS servers," CUSTOM DNS, and paste the private IP address here. Then restart the client within the Azure portal.
 </p>
 <p>
 
