@@ -77,7 +77,7 @@ You'll also need to change the settings of the vNIC for the server from dynamic 
 
 </p>
 <p>
-Through Windows Defender Firewall (Advanced Settings) on the server, you'll need to first "enable" incoming ICMP traffic before you can ping the server from the client.
+Through Windows Defender Firewall (Advanced Settings) on the server, you'll need to first "enable" incoming ICMP traffic before you can ping the server from the client. Here you only need to enable the two lines for "Echo Request."
 </p>
 <br />
 
