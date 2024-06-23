@@ -36,11 +36,12 @@ This is an abbreviated outline of notes on the setup (from scratch) and installa
 <h2>Before You Start</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 ONE...............
 </p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <br />
   
 <h2>Deployment and Configuration Steps</h2>
