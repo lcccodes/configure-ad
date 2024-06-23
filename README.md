@@ -16,7 +16,7 @@ This is an abbreviated outline of notes on the setup (from scratch) and installa
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 (22H2)
 
 <h2>Overview: Deployment and Configuration </h2>
 
