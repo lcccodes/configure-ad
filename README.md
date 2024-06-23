@@ -128,10 +128,28 @@ The point here is to make sure you're inputting this as the USERNAME and not as 
 Once the domain controller is running and you can log in, now you can open "Active Directory Users and Computers" and begin to create the organizational units and admin users you need.
 NB: Once you've added a user to the _ADMINS folder (for example), make sure you actually add them to that security group, too -- right click on their name, go to Properties, "Member of," and ADD. Start typing Domain Admins and select this, apply, hit "OK."
 </p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+FIVE. .....
+</p>
 <br />
 
 
 <b>Part 5: Join the client to the domain.</b>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+FIVE. .....
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+FIVE. .....
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
