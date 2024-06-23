@@ -71,10 +71,12 @@ You'll also need to change the settings of the vNIC for the server from dynamic 
 
 <b>Part 2: Checking connectivity.</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/2f645421-5f75-4d02-ab86-41b9cbdefea0)
+
 </p>
 <p>
-TWO...................
+Through Windows Defender Firewall (Advanced Settings) on the server, you'll need to first "enable" incoming ICMP traffic before you can ping the server from the client.
 </p>
 <br />
 
