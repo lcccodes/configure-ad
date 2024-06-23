@@ -169,7 +169,16 @@ You'll need to change the DNS settings on the client so that they point to the p
 
 <b>Part 6: Adding multiple users with Powershell; Resetting Accounts and Passwords</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/b94a2400-82fb-4a68-ac35-12e06fc28281)
+
+</p>
+<p>
+SIX......
+</p><p>
+
+  ![image](https://github.com/lcccodes/configure-ad/assets/171904823/b94a2400-82fb-4a68-ac35-12e06fc28281)
+
 </p>
 <p>
 SIX......
